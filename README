@@ -1,0 +1,15 @@
+README:
+Experiment 1:
+Run experiment1.py to get the goodput,throughput, latency and droprate in a .dat file.
+give command : python mean_calculation.py, to get the mean and standard devation.
+(it takes long time to execute for all combinations)
+
+Experiment 2:
+Run exp2_tcp_fairness.py to get the throughput, latency and droprate in a .dat file.
+give command: python meancal.py , to get mean and stdev.
+
+Experiment 3:
+Run exp3_throughput.py,exp3_latency.py,exp3_latency_time.py to get the throughut over time, latency over time and average latency.
+give command python mean_calculation_3, to get the mean and standard devation. 
+
+Run gnuplot_exp1.plt,gnuplot_exp2.plt, gnuplot_exp3.plt to plot graphs 
